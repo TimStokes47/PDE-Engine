@@ -1,6 +1,6 @@
-#include <print>
+#include <iostream>
 
 int main(){
-    std::println("Hello PDE Engine");
+    std::cout << "Hello PDE";
     return 0;
 }
